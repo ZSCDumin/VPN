@@ -3,3 +3,4 @@
 # 蓝灯
 # shadowsocks
 # pac
+# host文件
