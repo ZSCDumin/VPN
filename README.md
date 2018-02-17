@@ -4,8 +4,13 @@
 >+  shadowsocks 下载地址（https://github.com/shadowsocks/shadowsocks-windows/releases)
 >+  host 文件下载地址（https://laod.cn/hosts)
 ---
+
 # 2.Shadowsocks 免费服务器配置见如下网址：
 >+ https://global.ishadowx.net/
 
-# 3.觉得赞就打赏我吧
+# 3.效果截图如下
+![image](https://github.com/ZSCDumin/VPN/blob/master/2.png)
+![image](https://github.com/ZSCDumin/VPN/blob/master/3.png)
+
+# 4.觉得赞就打赏我吧
 ![image](https://github.com/ZSCDumin/ZhiXinApp/raw/master/screenshoot/17.png)
