@@ -14,5 +14,8 @@
 ![image](https://github.com/ZSCDumin/VPN/blob/master/2.png)
 ![image](https://github.com/ZSCDumin/VPN/blob/master/3.png)
 
-# 4.觉得赞就打赏我吧
+# 4. Android设备支持
+![image](https://github.com/ZSCDumin/VPN/blob/master/4.png)
+
+# 5.觉得赞就打赏我吧
 ![image](https://github.com/ZSCDumin/ZhiXinApp/raw/master/screenshoot/17.png)
