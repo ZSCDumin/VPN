@@ -2,7 +2,7 @@
 
 ---
 
-**SSR个版本下载**
+**SSR各版本下载**
 
 >+ SSR windows版本：https://www.hyjsos.net/ssr-download/ssr-win.7z
 >+ SSR android 版本：https://www.hyjsos.net/ssr-download/ssr-android.apk
