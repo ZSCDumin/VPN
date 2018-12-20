@@ -19,6 +19,7 @@
 >+ 在系统图标那里找到该软件，右键“二维码扫描”，二维码见下面的网址中找到Free SS，另外记得勾选“服务器负载均衡”和“PAC代理模式”
 >+ 免费账号请见：https://global.ishadowx.net/
 >+ 收费服务器（请QQ联系本人，合租大概每人5元/月）
+>+ 冰山互联：https://www.bshl.top/auth/register?code=OXNOOUctGuuO7QJRZr3lJspje0w3TtBZ
 
 # 3.效果截图如下
 ![image](https://github.com/ZSCDumin/VPN/blob/master/2.png)
