@@ -21,11 +21,11 @@
 >+ 收费服务器（请QQ联系本人，合租大概每人10元/月）
 >+ 冰山互联：https://www.bshl.top/auth/register?code=OXNOOUctGuuO7QJRZr3lJspje0w3TtBZ
 
-# 3.效果截图如下
+# 3. 效果截图如下
 ![image](https://github.com/ZSCDumin/VPN/blob/master/3.png)
 
 # 4. 软件配置及使用教程
 >+ https://zscdumin.github.io/2019/04/13/shadowsocks-shi-yong-jiao-cheng/
 
-# 5.觉得赞就打赏我吧
+# 5. 觉得赞就打赏我吧
 ![image](https://github.com/ZSCDumin/ZhiXinApp/raw/master/screenshoot/17.png)
