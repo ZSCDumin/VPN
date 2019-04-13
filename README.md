@@ -23,7 +23,6 @@
 >+ 冰山互联：https://www.bshl.top/auth/register?code=OXNOOUctGuuO7QJRZr3lJspje0w3TtBZ
 
 # 3.效果截图如下
-![image](https://github.com/ZSCDumin/VPN/blob/master/2.png)
 ![image](https://github.com/ZSCDumin/VPN/blob/master/3.png)
 
 # 4. 软件配置及使用教程
