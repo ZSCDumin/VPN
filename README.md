@@ -18,7 +18,7 @@
 
 # 2. 服务器获取方法：
 >+ 免费账号请见：https://global.ishadowx.net/
->+ 收费服务器（请联系本人，合租大概每人15元/月）
+>+ 收费服务器（请联系本人，合租大概每人20元/月）
 >+ 冰山互联：https://www.bshl.top/auth/register?code=f59n
 
 # 3. 效果截图如下
