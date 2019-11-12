@@ -19,7 +19,8 @@
 # 2. 服务器获取方法：
 >+ 免费账号请见：https://global.ishadowx.net/
 >+ 收费服务器（请联系本人，合租大概每人20元/月）
->+ 冰山互联：https://www.23800.top/
+>+ 冰山互联：https://www.23800.top/    
+>+ 邀请链接：https://www.bshl.xyz/auth/register?code=FuCJ
 
 # 3. 效果截图如下
 ![image](https://github.com/ZSCDumin/VPN/blob/master/3.png)
