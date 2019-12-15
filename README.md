@@ -4,7 +4,7 @@
 
 **SSR各版本下载**
 
->+ SSR windows版本：https://www.bshl.top/ssr-download/ssr-win.7z
+>+ SSR windows版本：https://cloud.bshl.site/client-download/ShadowsocksR.zip
 >+ SSR android 版本：https://www.bshl.top/ssr-download/ssr-android.apk
 >+ SSR MacOS 版本：https://www.bshl.top/ssr-download/ssr-mac.dmg
 >+ SSR iphone/ipad 版本：https://blog.hyjsos.vip/?id=3
