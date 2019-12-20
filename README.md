@@ -4,15 +4,13 @@
 
 **SSR各版本下载**
 
->+ SSR windows版本：https://cloud.bshl.site/client-download/ShadowsocksR.zip
->+ SSR android 版本：https://www.bshl.top/ssr-download/ssr-android.apk
->+ SSR MacOS 版本：https://www.bshl.top/ssr-download/ssr-mac.dmg
->+ SSR iphone/ipad 版本：https://blog.hyjsos.vip/?id=3
+>+ SSR windows版本：https://github.com/ZSCDumin/VPN/raw/master/ShadowsocksR-win.zip
+>+ SSR android 版本：https://github.com/ZSCDumin/VPN/raw/master/base.apk
 
 **其他软件下载**
 >+  蓝灯软件下载地址 (https://github.com/getlantern/lantern/releases/tag/latest)
 >+  host 文件下载地址（https://laod.cn/hosts)
->+ ShadowsocksR 下载地址：https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z
+>+ ShadowsocksR 下载地址：https://github.com/ZSCDumin/VPN/raw/master/ShadowsocksR-win.zip
 
 ---
 
